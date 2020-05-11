@@ -1,5 +1,5 @@
 # f2c
-A trivial Farenheit <-> Celcius Swing app to demonstrate tools.deps.
+A trivial Farenheit <-> Celsius Swing app to demonstrate tools.deps.
 
 # Usage
 To invoke, call `clj -m f2c` from the command line.
